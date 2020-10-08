@@ -12,4 +12,4 @@ dependencies:
   - cartopy
   - rise
   - jupyter
-  - jupyter-contrib-nbextensions
+  - jupyter_contrib_nbextensions
