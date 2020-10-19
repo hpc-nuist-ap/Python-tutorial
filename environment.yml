@@ -1,4 +1,4 @@
-name: pyXZ
+name: python_tutorial
 channels:
   - conda-forge
 dependencies:
